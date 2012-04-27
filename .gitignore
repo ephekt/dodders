@@ -1,0 +1,13 @@
+# All files & folders
+.*
+*/*
+
+# Versioned dotfiles
+!/.gitignore
+!/.gemrc
+!/.gitconfig
+!/.global_ignore
+!/.zshrc
+!/.vimrc
+!/.irbrc
+!/.profile
